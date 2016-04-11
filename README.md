@@ -57,11 +57,17 @@ Living and running a business in North Africa for 5 years meant finding solution
 
 ## Code Samples
 
-https://github.com/seanhawkridge/instagram-challenge | Writing an Instagram-esque web app in Ruby on Rails, with some JS
+https://github.com/seanhawkridge/instagram-challenge
 
-https://github.com/seanhawkridge/chitter-challenge | Writing a Twitter-esque web app in Ruby
+Writing an Instagram-esque web app in Ruby on Rails, with some JS
 
-https://github.com/seanhawkridge/thermostat | Writing a simple mock thermostat in vanilla JS and Jquery
+https://github.com/seanhawkridge/chitter-challenge
+
+Writing a Twitter-esque web app in Ruby
+
+https://github.com/seanhawkridge/thermostat
+
+Writing a simple mock thermostat in vanilla JS and Jquery
 
 
 ## Website Design & Build - live projects
