@@ -1,3 +1,6 @@
+![alt text](/docs/shs.png "Sean")
+
+
 # Sean Hawkridge
 
 An excitable creative thinker with a passion for heartfelt communication, digital craftsmanship and adventure. I've started and worked for creative businesses in the art and design worlds in the UK and North Africa. Frequently described as a people-person. Occasionally described as a trouble-maker.
@@ -46,7 +49,7 @@ Industry-standard best practices in web development - including projects in mult
 
 2001-2004
 
-First Class hons.
+First Class honours.
 
 
 ## Work
