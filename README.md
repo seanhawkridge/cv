@@ -33,7 +33,9 @@ In 2008 I moved house with my young family from Liverpool to Marrakech, Morocco,
 
 Creative communication is the common thread running through my career. As a designer and front-end developer I've designed and built websites working with people and projects on three continents. As an artist and curator I've won awards and shown work in galleries nationally and internationally. I have extensive experience delivering talks and lectures to arts audiences and university students.
 
-Between 2006-2008 I worked as Digital Content and Communications Co-ordinator for Liverpool Biennial, helping to attract a record-breaking 500,000 people to the festival that year. At the end of my time at Makers Academy I was selected as one of three Alumni Helpers, supporting the next cohort as they worked through the second part of the course.
+Between 2006-2008 I worked as Digital Content and Communications Co-ordinator for Liverpool Biennial, project-managing the launch of a £40k web platform and helping to attract a record-breaking 500,000 people to the festival that year.
+
+At the end of my time at Makers Academy I was selected as one of three Alumni Helpers, supporting the next cohort as they worked through the second part of the course.
 
 
 ### Design Thinking & Problem Solving
@@ -61,14 +63,18 @@ First Class honours.
 
 ## Work
 
+**Alumni Helper, Makers Academy**
+
+Supporting students in the second part of the course, helping them problem-solve and debug projects largely written in Ruby and JS.
+
 **Director / Designer / Programmer, Mighty Oak Creative**
 
-Web development, Branding and Print design
+Web development | Branding and print design | Project management | Client interactions |  Business development
 
-**Digital Content and Communications Co-ordinator, Liverpool Biennial**
+**Digital Content and Communications Co-ordinator, Liverpool Biennial (the UK's leading festival of contemporary visual art)**
 
-Managing online marketing activity including project-managing a new website and social media activity.
+Managing online marketing activity and content | Project-managing high-profile website build & launch | Social media activity | Video production | Print and digital design
 
 **Founder / Director / Curator, The Royal Standard**
 
-Organisational development, exhibition curation, venue management
+Organisational development | Exhibition curation | Venue management | Business development | Fundraising
