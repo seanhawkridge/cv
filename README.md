@@ -26,9 +26,13 @@ Between December 2015 and April 2016 I attended Makers Academy, Europe's leading
 
 ### Activating & Self-starting
 
-In 2005 I co-founded The Royal Standard, an artist-led gallery, studios and social-workspace in a former pub in Liverpool. We were home to 25 studio members, and curated shows featuring artists from around the world. We punched way above our weight, and hosted a number of critically-acclaimed events and exhibitions. To my immense pride, the organisation is still going from strength-to-strength.
+In 2005 I co-founded The Royal Standard, an artist-led gallery, studios and social-workspace in a former pub in Liverpool.
 
-In 2008 I moved house with my young family from Liverpool to Marrakech, Morocco, with our possessions in the back of a pickup-truck. There, in 2012, I co-founded Mighty Oak Creative, a small digital agency building websites for amazing people and businesses in Morocco and the UK. In three years we built sites for over 20 clients, many of whom we worked with multiple times - in one case we built 5 sites for the same successful travel specialist.
+We were home to 25 studio members, and curated shows featuring artists from around the world. We punched way above our weight, and hosted a number of critically-acclaimed events and exhibitions. To my immense pride, the organisation is still going from strength-to-strength.
+
+In 2008 I moved house with my young family from Liverpool to Marrakech, Morocco, with our possessions in the back of a pickup-truck. There, in 2012, I co-founded Mighty Oak Creative, a small digital agency building websites for amazing people and businesses in Morocco and the UK.
+
+In three years we built sites for over 20 clients, many of whom we worked with multiple times - in one case we built 5 sites for the same successful travel specialist.
 
 
 ### Communication
