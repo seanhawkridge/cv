@@ -35,24 +35,32 @@ In hand with a love for design thinking is a passion for problem solving. Runnin
 
 ## Education
 
-Makers Academy - Europe's leading programming bootcamp
+**Makers Academy - Europe's leading programming bootcamp**
+
 December 2015 - April 2016
+
 Industry-standard best practices in web development - including projects in multiple languages, Test Driven Development and Agile project management.
 
-BA (hons) Fine Art, Liverpool John Moores University
+
+**BA (hons) Fine Art, Liverpool John Moores University**
+
 2001-2004
+
 First Class hons.
+
 
 ## Work
 
-Mighty Oak Creative
-Director / Designer / Programmer
+**Director / Designer / Programmer, Mighty Oak Creative**
+
 Web development, Branding and Print design
 
-Liverpool Biennial
-Digital Content and Communications Co-ordinator
+
+**Digital Content and Communications Co-ordinator, Liverpool Biennial**
+
 Managing online marketing activity including project-managing a new website and social media activity.
 
-The Royal Standard
-Founder / Director / Curator
+
+**Founder / Director / Curator, The Royal Standard**
+
 Organisational development, exhibition curation, venue management
