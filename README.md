@@ -14,7 +14,7 @@ Between December 2015 and April 2016 I attended Makers Academy, Europe's leading
 
 ### Activation & Self-starting
 
-In 2006 I co-founded The Royal Standard, an artist-led gallery, studios and social-workspace in a former pub in Liverpool. We were home to 25 studio members, and curated shows featuring artists from around the world. We punched way above our weight, and hosted a number of critically-acclaimed events and exhibitions. To my immense pride, the organisation is still going from strength-to-strength.
+In 2005 I co-founded The Royal Standard, an artist-led gallery, studios and social-workspace in a former pub in Liverpool. We were home to 25 studio members, and curated shows featuring artists from around the world. We punched way above our weight, and hosted a number of critically-acclaimed events and exhibitions. To my immense pride, the organisation is still going from strength-to-strength.
 
 In 2008 I moved house with my young family from Liverpool to Marrakech, Morocco, with our possessions in the back of a pickup-truck. There, with my wife, I co-founded Mighty Oak Creative, a small digital agency building websites for amazing people and businesses in Morocco and the UK.
 
@@ -30,7 +30,7 @@ Between 2006-2008 I worked as Digital Content and Communications Co-ordinator fo
 
 I have a keen interest in good design thinking, and I believe that it's crucial to every stage of web development - I'm as passionate about excellent domain modeling as I am about a beautiful and effective UI. I've designed and built websites and web apps, created identities and produced print, as an individual and in teams.
 
-In hand with a love for design thinking is a passion for problem solving. Running a publicly- and privately-funded start-up arts venue meant constantly thinking on my feet to keep things moving. Living and running a business in North Africa for 7 years meant finding solutions to new cultural and practical challenges almost every day. During my time at Makers Academy I learnt to professionalise these skills as a developer in the context of XP and Agile project management.
+In hand with a love for design thinking is a passion for problem solving. Running a publicly- and privately-funded arts venue start-up meant constantly thinking on my feet to keep things moving. Living and running a business in North Africa for 5 years meant finding solutions to new cultural and practical challenges almost every day. During my time at Makers Academy I learnt to professionalise these skills as a developer in the context of XP and Agile project management.
 
 
 ## Education
@@ -55,11 +55,9 @@ First Class hons.
 
 Web development, Branding and Print design
 
-
 **Digital Content and Communications Co-ordinator, Liverpool Biennial**
 
 Managing online marketing activity including project-managing a new website and social media activity.
-
 
 **Founder / Director / Curator, The Royal Standard**
 
