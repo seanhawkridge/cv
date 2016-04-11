@@ -5,14 +5,14 @@ An excitable creative thinker with a passion for heartfelt communication, digita
 ## Skills
 
 
-### Digital
+### Programming
 
-I love to code. I built my first website after graduating and realising I needed a way to show my work to the world. This quickly led to requests from friends and colleagues, and these requests grew into a business partnering with some incredible people to help them better communicate who they are online - in the process becoming conversant in PHP, HTML, SCSS, JavaScript and version control.
+I love to code. I built my first website soon after graduating as way to show my work to the world. This quickly led to requests from friends and colleagues, and these requests grew into a business partnering with some incredible people to help them better communicate who they are online - in the process becoming conversant in PHP, HTML, CSS/SCSS, JQuery and version control.
 
 Between December 2015 and April 2016 I attended Makers Academy, Europe's leading programming bootcamp, where I added some foundational skills writing projects in Ruby and JavaScript, and an understanding of best practices including TDD, XP, Agile software development and version control in teams.
 
 
-### Activation & Self-starting
+### Activating & Self-starting
 
 In 2005 I co-founded The Royal Standard, an artist-led gallery, studios and social-workspace in a former pub in Liverpool. We were home to 25 studio members, and curated shows featuring artists from around the world. We punched way above our weight, and hosted a number of critically-acclaimed events and exhibitions. To my immense pride, the organisation is still going from strength-to-strength.
 
@@ -26,7 +26,7 @@ Creative communication is the common thread running through my career. As a desi
 Between 2006-2008 I worked as Digital Content and Communications Co-ordinator for Liverpool Biennial, helping to attract a record-breaking 500,000 people to the festival that year. At the end of my time at Makers Academy I was selected as one of three Alumni Helpers, supporting the next cohort as they worked through the second part of the course.
 
 
-### Design & Problem Solving
+### Design Thinking & Problem Solving
 
 I have a keen interest in good design thinking, and I believe that it's crucial to every stage of web development - I'm as passionate about excellent domain modeling as I am about a beautiful and effective UI. I've designed and built websites and web apps, created identities and produced print, as an individual and in teams.
 
