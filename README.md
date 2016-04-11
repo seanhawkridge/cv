@@ -30,7 +30,7 @@ Between 2006-2008 I worked as Digital Content and Communications Co-ordinator fo
 
 I have a keen interest in good design thinking, and I believe that it's crucial to every stage of web development - I'm as passionate about excellent domain modeling as I am about a beautiful and effective UI. I've designed and built websites and web apps, created identities and produced print, as an individual and in teams.
 
-In hand with a love for design thinking is a passion for problem solving. Running a publicly- and privately-funded arts venue start-up meant constantly thinking on my feet to keep things moving. Living and running a business in North Africa for 5 years meant finding solutions to new cultural and practical challenges almost every day. During my time at Makers Academy I learnt to professionalise these skills as a developer in the context of XP and Agile project management.
+In hand with a love for design thinking is a passion for problem solving. Running a publicly- and privately-funded arts venue meant constantly thinking on my feet to keep things moving. Living and running a business in North Africa for 5 years meant finding solutions to new cultural and practical challenges almost every day. During my time at Makers Academy I learnt to professionalise these skills as a developer in the context of XP and Agile project management.
 
 
 ## Education
