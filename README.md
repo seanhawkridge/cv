@@ -14,6 +14,7 @@ Currently lives in London, UK
 e: sean@hawkridge.co | w: http://sean.hawkridge.co
 
 
+
 ## Skills
 
 
@@ -21,7 +22,7 @@ e: sean@hawkridge.co | w: http://sean.hawkridge.co
 
 I love to code. I built my first website in 2003 as an undergraduate as a way to show my work to the world. This quickly led to requests from friends and colleagues, and these requests grew into a business partnering with some incredible people to help them better communicate who they are online - in the process becoming conversant in PHP, HTML, CSS/SCSS, JQuery and version control.
 
-Between December 2015 and April 2016 I attended Makers Academy, Europe's leading programming bootcamp, where I added some foundational skills writing projects in Ruby and JavaScript, and fell in love with best practices including TDD, XP, Agile software development and version control in teams.
+Between December 2015 and April 2016 I attended Makers Academy, Europe's leading programming bootcamp, where I added some foundational skills writing projects in Ruby and JavaScript, and fell in love with best practices including pairing, OOP, TDD, XP, Agile software development and version control in teams.
 
 
 ### Activating & Self-starting
