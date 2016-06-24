@@ -5,7 +5,7 @@
 
 An excitable creative thinker with a passion for heartfelt communication, digital craftsmanship and adventure. I've started and worked for creative businesses in the art and design worlds in the UK and North Africa. Frequently described as a people-person. Occasionally described as a trouble-maker.
 
-I'm looking for a role as a developer in a creative, inspiring organisation where I can use my skills to craft products we believe in, helping people and businesses become more successful through communicating the amazing things they do.
+I'm looking for a role as a developer/project manager in a creative, inspiring organisation where I can use my skills to craft products we believe in, helping people and businesses become more successful through communicating the amazing things they do.
 
 Born 6 March 1983
 
