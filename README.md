@@ -5,11 +5,11 @@
 
 An excitable creative thinker with a passion for heartfelt communication, digital craftsmanship and adventure. I've started and worked for creative businesses in the art and design worlds in the UK and North Africa. Frequently described as a people-person. Occasionally described as a trouble-maker.
 
-I'm looking for a role as a developer/project manager in a creative, inspiring organisation where I can use my skills to craft products we believe in, helping people and businesses become more successful through communicating the amazing things they do.
+I belong in a team where I can use my skills to craft products we believe in, helping people and businesses become more successful through communicating the amazing things they do.
+
+Currently: Delivery Lead / Tech Lead / Developer at Alliants Ltd., Southampton
 
 Born 6 March 1983
-
-Currently lives in London, UK
 
 e: sean@hawkridge.co | w: http://sean.hawkridge.co
 
@@ -22,7 +22,9 @@ e: sean@hawkridge.co | w: http://sean.hawkridge.co
 
 I love to code. I built my first website in 2003 as an undergraduate as a way to show my work to the world. This quickly led to requests from friends and colleagues, and these requests grew into a business partnering with some incredible people to help them better communicate who they are online - in the process becoming conversant in PHP, HTML, CSS/SCSS, JQuery and version control.
 
-Between December 2015 and April 2016 I attended Makers Academy, Europe's leading programming bootcamp, where I added some foundational skills writing projects in Ruby and JavaScript, and fell in love with best practices including pairing, OOP, TDD, XP, Agile software development and version control in teams.
+Between December 2015 and April 2016 I attended Makers Academy, Europe's leading programming bootcamp, where I added some deeper skills writing projects in Ruby and JavaScript, and fell in love with some healthy foundational development practices - including pairing, TDD, Agile software development and version control in teams.
+
+Since August 2016 I've been a consultant developer at Alliants, where I've been writing Ruby on Rails apps for a major luxury hotel brand - ranging from large internal CRM applications to nimble APIs for mobile clients.
 
 
 ### Activating & Self-starting
@@ -46,10 +48,12 @@ Between 2006-2008 I worked as Digital Content and Communications Co-ordinator fo
 
 At the end of my time at Makers Academy I was selected as one of three Alumni Helpers, supporting the next cohort as they worked through the second part of the course.
 
+In my role at Alliants I'm responsible for looking after a small team of contractors working remotely on a number of projects, as well as working closely with clients, service providers and members of our team in Toronto - all of which demands the ability to communicate clearly, appropriately and effectively.
+
 
 ### Design Thinking & Problem Solving
 
-I have a keen interest in good design thinking, and I believe that it's crucial to every stage of web development - I'm as passionate about excellent domain modeling as I am about a beautiful and effective UI. I've designed and built websites and web apps, created identities and produced print, as an individual and in teams.
+I have a keen interest in good design thinking, and I believe that it's crucial to every stage of web development - I'm as passionate about excellent domain modelling as I am about a beautiful and effective UI. I've designed and built websites and web apps, created identities and produced print, as an individual and in teams.
 
 In hand with a love for design thinking is a passion for problem solving. Running a publicly- and privately-funded arts venue meant constantly thinking on my feet to keep things moving.
 
@@ -86,7 +90,7 @@ https://www.panhurstfarms.com/
 
 December 2015 - April 2016
 
-Industry-standard best practices in web development - including projects in multiple languages, Test Driven Development and Agile software development.
+Industry-standard best practices in web development - including projects in multiple programming languages, Test Driven Development and Agile software development.
 
 
 **BA (hons) Fine Art, Liverpool John Moores University**
@@ -97,6 +101,12 @@ First Class honours.
 
 
 ## Work
+
+**Tech Lead / Delivery Lead, Alliants Ltd**
+
+August 2016-Present
+
+Ruby development | Project Management | Team leadership | Dev-ops | Chief of Fun
 
 **Alumni Helper, Makers Academy**
 
